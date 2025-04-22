@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A Logseq plugin",
   "author": "John Doe",
-  "main": "index.js",
+  "main": "index.html",
   "logseq": {
     "id": "logseq-plugin"
   }
